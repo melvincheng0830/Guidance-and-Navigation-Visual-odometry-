@@ -1,3 +1,7 @@
 # Guidance and Navigation Visual odometry
 
-Welcome!
+This repository contains multiple MATLAB program that is related to StructureFromMotion and VisualSLAM.
+
+# Sample Images
+
+You can download the sample images here:
