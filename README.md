@@ -12,3 +12,11 @@ Tutorial slide for Visual Odometry: <a href="Week 9 [Tutorial 2 Visual Odometry]
 
 Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 Intro GitHub and MATLAB.pdf"><strong>Link</strong></a>
 
+## About Visual Odometry
+
+## MATLAB and Visual Odometry
+
+
+
+
+
