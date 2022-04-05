@@ -24,7 +24,7 @@ In unmanned aerial robotics, visual odometry can be utilized to achieve multiple
 
 ## MATLAB and Visual Odometry
 
-<a href="https://www.mathworks.com/help/vision/ug/monocular-visual-odometry.html"><strong>MATLAB Visual Odometry</strong></a>
+Link to MATLAB Visual Odometry: <a href="https://www.mathworks.com/help/vision/ug/monocular-visual-odometry.html"><strong>MATLAB Visual Odometry</strong></a>
 
 
 
