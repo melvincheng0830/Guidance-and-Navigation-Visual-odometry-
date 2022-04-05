@@ -8,7 +8,7 @@ You can download the sample images here: <strong>[Download Link](https://drive.g
 
 ## Lecture Note
 
-Tutorial slide for Visual Odometry: <a href="Week 9 [Tutorial 2 Visual Odometry] Dr. Wen-V3.pdf"><strong>Tutorial Link</strong></a>
+Tutorial slide for Visual Odometry: <a href="Week 9 [Tutorial 2 Visual Odometry] Dr. Wen-V3.pdf"><strong>Link</strong></a>
 
-Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 Intro GitHub and MATLAB.pdf"><strong>Tutorial Link</strong></a>
+Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 Intro GitHub and MATLAB.pdf"><strong>Link</strong></a>
 
