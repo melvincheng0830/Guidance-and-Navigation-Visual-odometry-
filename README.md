@@ -76,9 +76,10 @@ Open MATLAB and right click on the left empty space. You will see the option "So
 After the local repository is created by retrieving from the cloud repository (Step 4 above), you can start editing the codes!
 
 <p align="center">
-  <img width="712pix" src="Images/SC options.png">
+  <img width="712pix" src="Images/SC Options.png">
 </p>
 
+There are multiple source control functions as shown above. You can know more about them through this tutorial: <a href="https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c"><strong>Link</strong></a>
 ### 6. Pushing changes back to GitHub
 
 
