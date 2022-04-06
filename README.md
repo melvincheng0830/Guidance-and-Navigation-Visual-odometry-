@@ -30,6 +30,10 @@ Link to MATLAB Visual Odometry: <a href="https://www.mathworks.com/help/vision/u
 
 Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 Intro GitHub and MATLAB.pdf"><strong>Link</strong></a>
 
+<p align="center">
+  <img width="712pix" src="Images/Workflow.png">
+</p>
+
 MATLAB and GitHub can be used together to better achieve a collaborative coding and developing environment between developers or programmers. The setup of using MATLAB and Git would only take a few steps:
 
 ### 1. Install both MATLAB and Git in the local Machine
@@ -60,10 +64,6 @@ Open MATLAB and right click on the left empty space. You will see the option "So
 
 <p align="center">
   <img width="512pix" src="Images/SC matlab.png">
-</p>
-
-<p align="center">
-  <img width="512pix" src="Images/Copy Repo link.png">
 </p>
 
 ### 5. Start Editing!
