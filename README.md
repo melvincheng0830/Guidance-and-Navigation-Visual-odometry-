@@ -32,19 +32,19 @@ Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 
 
 MATLAB and GitHub can be used together to better achieve a collaborative coding and developing environment between developers or programmers. The setup of using MATLAB and Git would only take a few steps:
 
-#### 1. Install both MATLAB and Git in the local Machine
+### 1. Install both MATLAB and Git in the local Machine
 
 You can find the installation link for Git here: <a href="https://git-scm.com/downloads"><strong>Link</strong></a>
 
-#### 2. Create a Repository / Join a repository where you have editing permission
+### 2. Create a Repository / Join a repository where you have editing permission
 
-#### 3. Copy the repository link
+### 3. Copy the repository link
 
-#### 4. Link MATLAB and the GitHub repository
+### 4. Link MATLAB and the GitHub repository
 
-#### 5. Start Editing!
+### 5. Start Editing!
 
-#### 6. Pushing changes back to GitHub
+### 6. Pushing changes back to GitHub
 
 
 
