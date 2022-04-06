@@ -80,7 +80,15 @@ After the local repository is created by retrieving from the cloud repository (S
 </p>
 
 There are multiple source control functions as shown above. You can know more about them through this tutorial: <a href="https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c"><strong>Link</strong></a>
+
 ### 6. Pushing changes back to GitHub
 
+Remember to use the "Push" function to sync everything back to the remtoe repository, otherwise everything will just stay in the local machine!
 
+## MATLAB and GitHub Tutorial Videos
 
+Here are some tutorial videos for your to follow:
+
+Offical MATLAB & Git Tutorial: <a href="https://www.youtube.com/watch?v=O7A27uMduo0&ab_channel=MATLAB"><strong>Link</strong></a>
+
+A Step-by-step version: <a href="https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c"><strong>Link</strong></a>
