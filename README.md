@@ -8,6 +8,8 @@ You can download the sample images here: <strong>[Download Link](https://drive.g
 
 ## About Visual Odometry
 
+Tutorial slide for Visual Odometry: <a href="Week 9 [Tutorial 2 Visual Odometry] Dr. Wen-V3.pdf"><strong>Link</strong></a>
+
 Visual odometry in robotics and computer vision is a process of analyzing camera images in order to determine the position of a robot. This technology is widely adapted in various fields of applications, including exploration rovers used in planatory explorations.
 
 <p align="center">
@@ -20,15 +22,27 @@ In unmanned aerial robotics, visual odometry can be utilized to achieve multiple
   <img width="712pix" src="https://www.researchgate.net/profile/Vitor-Guizilini/publication/224252287/figure/fig1/AS:669965199880222@1536743559940/3D-localization-estimates-obtained-from-the-proposed-method-with-six-Single-GPs_Q320.jpg">
 </p>
 
-Tutorial slide for Visual Odometry: <a href="Week 9 [Tutorial 2 Visual Odometry] Dr. Wen-V3.pdf"><strong>Link</strong></a>
-
 ## MATLAB and Visual Odometry
 
 Link to MATLAB Visual Odometry: <a href="https://www.mathworks.com/help/vision/ug/monocular-visual-odometry.html"><strong>MATLAB Visual Odometry</strong></a>
 
+## MATLAB and GitHub
+
 Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 Intro GitHub and MATLAB.pdf"><strong>Link</strong></a>
 
+MATLAB and GitHub can be used together to better achieve a collaborative coding and developing environment between developers or programmers. The setup of using MATLAB and Git would only take a few steps:
 
+#### 1. Install both MATLAB and Git in the local Machine
+
+#### 2. Create a Repository / Join a repository where you have editing permission
+
+#### 3. Copy the repository link
+
+#### 4. Link MATLAB and the GitHub repository
+
+#### 5. Start Editing!
+
+#### 6. Pushing changes back to GitHub
 
 
 
