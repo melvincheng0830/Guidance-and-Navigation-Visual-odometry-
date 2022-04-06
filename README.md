@@ -58,9 +58,6 @@ You can copy the repository link at the front page of a repository by clicking t
   <img width="712pix" src="Images/Copy Repo link.png">
 </p>
 
-<p align="center">
-  <img width="712pix" src="Images/Retrieve.png">
-</p>
 
 ### 4. Link MATLAB and the GitHub repository
 
@@ -70,7 +67,17 @@ Open MATLAB and right click on the left empty space. You will see the option "So
   <img width="512pix" src="Images/SC matlab.png">
 </p>
 
+<p align="center">
+  <img width="712pix" src="Images/Retrieve.png">
+</p>
+
 ### 5. Start Editing!
+
+After the local repository is created by retrieving from the cloud repository (Step 4 above), you can start editing the codes!
+
+<p align="center">
+  <img width="712pix" src="Images/SC options.png">
+</p>
 
 ### 6. Pushing changes back to GitHub
 
