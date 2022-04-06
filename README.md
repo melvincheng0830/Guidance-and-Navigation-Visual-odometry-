@@ -36,9 +36,19 @@ MATLAB and GitHub can be used together to better achieve a collaborative coding 
 
 You can find the installation link for Git here: <a href="https://git-scm.com/downloads"><strong>Link</strong></a>
 
+MATLAB Official Website: <a href="https://www.mathworks.com/products/matlab.html"><strong>Link</strong></a>
+
+You will also need to have a GitHub account for this. You can create one in the GitHub webpage: <a href="https://github.com/"><strong>Link</strong></a>
+
 ### 2. Create a Repository / Join a repository where you have editing permission
 
+You can create a repository by clicking on the "New" button on the left panel.
+
+Alternatively, repository owners can invite collaborators to a repository in "Settings" --> "Collaborators".
+
 ### 3. Copy the repository link
+
+You can copy the repository link at the front page of a repository by clicking the green "Code" button.
 
 ### 4. Link MATLAB and the GitHub repository
 
