@@ -89,6 +89,6 @@ Remember to use the "Push" function to sync everything back to the remtoe reposi
 
 Here are some tutorial videos for your to follow:
 
-Offical MATLAB & Git Tutorial: <a href="https://www.youtube.com/watch?v=O7A27uMduo0&ab_channel=MATLAB"><strong>Link</strong></a>
+### Offical MATLAB & Git Tutorial: <a href="https://www.youtube.com/watch?v=O7A27uMduo0&ab_channel=MATLAB"><strong>Link</strong></a>
 
-A Step-by-step version: <a href="https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c"><strong>Link</strong></a>
+### A Step-by-step version: <a href="https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c"><strong>Link</strong></a>
