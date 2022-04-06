@@ -17,7 +17,7 @@ Introductory slide for GitHub and MATLAB collaborative coding: <a href="Week 13 
 Visual odometry in robotics and computer vision is a process of analyzing camera images in order to determine the position of a robot. This technology is widely adapted in various fields of applications, including exploration rovers used in planatory explorations.
 
 <p align="center">
-  <img width="712pix" src="animation.gif">
+  <img width="712pix" src="https://scitechdaily.com/images/NASA-Mars-Perseverance-Rover-Driving.gif">
 </p>
 
 In unmanned aerial robotics, visual odometry can be utilized to achieve multiple purposes, such as surveying & mapping.
