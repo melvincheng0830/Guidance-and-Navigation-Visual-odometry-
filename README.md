@@ -58,6 +58,10 @@ You can copy the repository link at the front page of a repository by clicking t
   <img width="712pix" src="Images/Copy Repo link.png">
 </p>
 
+<p align="center">
+  <img width="712pix" src="Images/Retrieve.png">
+</p>
+
 ### 4. Link MATLAB and the GitHub repository
 
 Open MATLAB and right click on the left empty space. You will see the option "Source Control". Click on it and paste the GitHub repository link that you just copied and click "Retrieve". Wait until the repository has been pulled to the local machine when you see the files appear on the left hand side.
