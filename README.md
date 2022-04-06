@@ -1,6 +1,6 @@
 # Guidance and Navigation Visual odometry
 
-This repository contains multiple MATLAB program that is related to StructureFromMotion and VisualSLAM. You can find a brief introduction to visual odometry and a step-by-step tutorial below on how to use GitHub and MATLAB together.
+This repository contains multiple MATLAB program that is related to StructureFromMotion and VisualSLAM. You can find a brief introduction to visual odometry and a step-by-step tutorial below on how to use GitHub and MATLAB together. You can also find tutorial videos at the end of this page for more guidance.
 
 ## Sample Images
 
