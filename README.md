@@ -51,7 +51,7 @@ Alternatively, repository owners can invite collaborators to a repository in "Se
 You can copy the repository link at the front page of a repository by clicking the green "Code" button.
 
 <p align="center">
-  <img width="512pix" src="Images/Copy Repo link.png">
+  <img width="712pix" src="Images/Copy Repo link.png">
 </p>
 
 ### 4. Link MATLAB and the GitHub repository
