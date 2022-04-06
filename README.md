@@ -22,6 +22,10 @@ Visual odometry in robotics and computer vision is a process of analyzing camera
 
 In unmanned aerial robotics, visual odometry can be utilized to achieve multiple purposes, such as surveying & mapping.
 
+<p align="center">
+  <img width="712pix" src="https://www.researchgate.net/profile/Vitor-Guizilini/publication/224252287/figure/fig1/AS:669965199880222@1536743559940/3D-localization-estimates-obtained-from-the-proposed-method-with-six-Single-GPs_Q320.jpg">
+</p>
+
 ## MATLAB and Visual Odometry
 
 Link to MATLAB Visual Odometry: <a href="https://www.mathworks.com/help/vision/ug/monocular-visual-odometry.html"><strong>MATLAB Visual Odometry</strong></a>
