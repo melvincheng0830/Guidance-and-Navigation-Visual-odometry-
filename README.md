@@ -92,3 +92,7 @@ Here are some tutorial videos for your to follow:
 ### Offical MATLAB & Git Tutorial: <a href="https://www.youtube.com/watch?v=O7A27uMduo0&ab_channel=MATLAB"><strong>Link</strong></a>
 
 ### A Step-by-step version: <a href="https://www.youtube.com/watch?v=g_P2ulWBVlE&ab_channel=WeisongWen"><strong>Link</strong></a>
+
+## Acknowledgment
+
+We wish to show our appreciation for the code from the MATLAB official community (https://ww2.mathworks.cn/help/vision/ug/structure-from-motion-from-multiple-views.html) for SFM and https://ww2.mathworks.cn/help/vision/ug/monocular-visual-simultaneous-localization-and-mapping.html for visual SLAM. We use the dataset provided by the TUM (https://vision.in.tum.de/rgbd/dataset/freiburg3/rgbd_dataset_freiburg3_long_office_household.tgz). Thank you very much for the help from Runzhi Hu and Xi Zheng.
